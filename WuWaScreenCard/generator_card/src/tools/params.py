@@ -1,0 +1,16 @@
+screen_name = {
+    0: "charter", 
+    1: "weapon", 
+    2: "weapon_info", 
+    3: "weapon", 
+    4: "echo", 
+    5: "echoSelect", 
+    6: "echo_one", 
+    7: "echo_two", 
+    8: "echo_three", 
+    9: "echo_four", 
+    10: "echo_five", 
+    11: "echo2", 
+    12: "skills", 
+    13: "const",
+}
