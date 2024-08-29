@@ -1,7 +1,7 @@
 # WuWaScreenCard
 WuWaScreenCard is a program that allows you to create cards for your characters using screenshots!
 <p align="center">
- <img src="https://raw.githubusercontent.com/Wuthery/WuWaScreenCard/main/card.png" alt="Баннер"/>
+ <img src="https://raw.githubusercontent.com/DEViantUA/WuWaScreenCard/main/card.png" alt="Баннер"/>
 </p>
 
 
