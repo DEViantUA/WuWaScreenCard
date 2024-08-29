@@ -12,10 +12,10 @@ Collects screenshots from your game screen and creates a card based on them.
 
 ### Instructions:
 
-1. Dowload: **[File](https://drive.google.com/file/d/1g7mubgj3EUYQdYMmZw_SNLQEklwVw3oR/view?usp=sharing)**
+1. Dowload: **[File](https://drive.google.com/file/d/1iktGCGWyiH1hGa_5SMDgDcAp8ynTKUWg/view?usp=sharing)**
 2. Run as administrator.
 > [!WARNING]  
-> It is necessary to Run as administrator so that the program can correctly use mouse clicks in the game.
+> It is necessary to Run as administrator so that the program can correctly use mouse clicks in the game. <br> (Also, due to the need for administrator rights, Windows Defenders can mark the program as a virus)
 3. Select the folder where the screenshots will be saved. (Click the button: `Select Folder`)
 4. Open the game.
 5. Choose a character.
